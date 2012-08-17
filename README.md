@@ -1,0 +1,1 @@
+JavaScript implementation of my python sudoku solver.  Completely based in client.  To run, save both .html and .js files in the same folder and open the .html file in Chrome.  Fill in the given cells from your sudoku puzzle into my solver and click "Solve."
